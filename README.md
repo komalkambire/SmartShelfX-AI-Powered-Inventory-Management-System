@@ -1256,22 +1256,6 @@ This project is open for contributions! Here's how you can help:
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** - free to use for learning and portfolio purposes.
-
----
-
-## 👤 Contact & Author
-
-**Dnyanesh Agale**
-
-- 💼 LinkedIn: [linkedin.com/in/dnyaneshagale](https://www.linkedin.com/in/dnyanesh-agale/)
-- 🐙 GitHub: [@dnyaneshagale](https://github.com/dnyaneshagale)
-- 📧 Email: dnyanesh.portfolio@gmail.com
-
----
-
 <div align="center">
 
 ## 🎉 Project Status
