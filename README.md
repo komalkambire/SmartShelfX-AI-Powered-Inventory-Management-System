@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # [🏪 SmartShelfX](https://smartshelfx.netlify.app/login)
@@ -1296,3 +1297,7 @@ This project is licensed under the **MIT License** - free to use for learning an
 ---
 
 </div>
+=======
+# SmartShelfX-AI-Powered-Inventory-Management-System
+Developed a microservices-based inventory system with AI-driven demand forecasting. Implemented forecasting using Moving Average, Weighted Average, and Linear Trend. Built REST APIs with JWT authentication and role-based access control.
+>>>>>>> e0bc114d838b2964bd2511eb0ea3777f731db73c
